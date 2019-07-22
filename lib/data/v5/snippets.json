@@ -1,0 +1,44 @@
+[
+	{
+		"shortcode": "fa",
+		"body": "<i class=\"fa fa-$1\"></i>",
+		"label": "Fa (default fal)",
+		"description": "Font Awesome accessible icon"
+	},
+	{
+		"shortcode": "fas",
+		"body": "<i class=\"fa fa-$1\"></i>",
+		"label": "FA Solid",
+		"description": "Font Awesome accessible solid icon"
+	},
+	{
+		"shortcode": "far",
+		"body": "<i class=\"fa fa-$1\"></i>",
+		"label": "FA Regular",
+		"description": "Font Awesome accessible regular icon"
+	},
+	{
+		"shortcode": "fal",
+		"body": "<i class=\"fa fa-$1\"></i>",
+		"label": "FA Light",
+		"description": "Font Awesome accessible light icon"
+	},
+	{
+		"shortcode": "fab",
+		"body": "<i class=\"fab fa-$1\"></i>",
+		"label": "FA Brands",
+		"description": "Font Awesome accessible brand icon"
+	},
+	{
+		"shortcode": "fa-ul",
+		"body": "<ul class=\"fa-ul\">\n\t<li><span class=\"fa-li\"><i class=\"fa fa-$1\"></i></span>$2</li>\n</ul>",
+		"label": "FA Bullet",
+		"description": "Font Awesome list with icon bullets"
+	},
+	{
+		"shortcode": "fa-li",
+		"body": "<li><span class=\"fa-li\"><i class=\"fa fa-$1\"></i</span>>$2</li>",
+		"label": "FA List",
+		"description": "Font Awesome list item with an icon bullet"
+	}
+]
